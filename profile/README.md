@@ -1,3 +1,7 @@
+<p align="center">
+	<img width="90%" src="res/thumbnail.png"/>
+</p>
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Install](#install)
