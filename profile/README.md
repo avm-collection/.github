@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="90%" src="./res/thumbnail.png"/>
+	<img width="90%" src="https://github.com/avm-collection/.github/blob/main/profile/res/thumbnail.png"/>
 </p>
 
 ## Table of contents
