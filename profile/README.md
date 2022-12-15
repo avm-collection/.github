@@ -1,15 +1,13 @@
 <p align="center">
-	<img width="80%" src="https://github.com/avm-collection/.github/blob/main/profile/res/thumbnail.png">
+	<img width="80%" src="./res/logo.png">
 </p>
 
+A collection of all projects related to the [avm virtual machine](https://github.com/avm-collection/avm)
+
 ## Table of contents
-* [Introduction](#introduction)
 * [Install](#install)
   * [Linux](#linux)
   * [Windows](#windows)
-
-## Introduction
-This is a collection of all projects related to the [avm virtual machine](https://github.com/avm-collection/avm)
 
 ## Install
 
